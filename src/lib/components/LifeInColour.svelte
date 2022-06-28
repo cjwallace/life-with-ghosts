@@ -168,6 +168,7 @@
 		background-color: #1f2937;
 		color: white;
 		font: monospace;
+		font-size: 0.875rem;
 		padding: 0.25rem 0.5rem;
 		display: inline;
 		border-radius: 0.125rem;
@@ -175,12 +176,12 @@
 
 	button.left {
 		float: left;
-		margin-left: 1rem;
+		margin-left: 0.125rem;
 	}
 
 	button.right {
 		float: right;
-		margin-right: 1rem;
+		margin-right: 0.125rem;
 	}
 
 	button:focus {
