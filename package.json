@@ -1,5 +1,5 @@
 {
-	"name": "life-in-colour",
+	"name": "@standard-dev/life-in-colour",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev",
